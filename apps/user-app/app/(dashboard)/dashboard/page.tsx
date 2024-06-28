@@ -2,6 +2,7 @@
 export default function() {
     return <div>
         Dashboard
-        testing docker and ec2
+        testing docker
+        testinfg deploy on ec2
     </div>
 }
