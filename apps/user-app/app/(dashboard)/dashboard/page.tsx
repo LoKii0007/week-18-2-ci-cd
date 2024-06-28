@@ -2,6 +2,6 @@
 export default function() {
     return <div>
         Dashboard
-        {/* testing deployment */}
+        testing deployment
     </div>
 }
